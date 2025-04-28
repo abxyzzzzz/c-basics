@@ -20,7 +20,7 @@ namespace nw
            Console.WriteLine("in which event");
            string ev=Console.ReadLine();
 
-           Console.Write($"how much exprience do you have of {ev} ?:");
+           Console.Write($"how much exprience do you have .of {ev} ?:");
            string ex=Console.ReadLine();
            int exprience=Convert.ToInt32(ex);
            
